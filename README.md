@@ -35,7 +35,7 @@ This project includes:
 Add your GitHub Pages link here:
 
 ```text
-https://yourusername.github.io/password-generator/
+https://hashmiayaan7.github.io/password.generator/
 ```
 
 ## 📂 Project Structure
